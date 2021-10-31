@@ -1,1 +1,2 @@
 '*.js': eslint --fix --ignore-path .gitignore
+'*.{md,yml}': prettier --write
