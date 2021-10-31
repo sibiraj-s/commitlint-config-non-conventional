@@ -1,6 +1,6 @@
 {
   "name": "commitlint-config-non-conventional",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Shared commitlint config to enforce a good non conventional commit message",
   "license": "MIT",
   "author": "sibiraj-s",
@@ -9,6 +9,9 @@
   "homepage": "https://github.com/sibiraj-s/commitlint-config-non-conventional#readme",
   "main": "./index.js",
   "exports": "./index.js",
+  "files": [
+    "index.js"
+  ],
   "engines": {
     "node": ">=12"
   },
