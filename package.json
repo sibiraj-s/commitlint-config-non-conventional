@@ -23,7 +23,8 @@
     "lint": "eslint . --ignore-path .gitignore",
     "test": "jest --verbose --coverage",
     "test-watch": "jest --verbose --watch --coverage",
-    "prepare": "is-ci || husky install"
+    "prepare": "is-ci || husky install",
+    "prepublishOnly": "is-ci || npm run test"
   },
   "peerDependencies": {
     "@commitlint/cli": ">=13.0.0"
