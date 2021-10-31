@@ -4,6 +4,11 @@
 
 This config disllows the usage of [conventinal style commits][conventionalcommits]. Sometimes all you need is just a proper commit messages with some rules enforced.
 
+[![Tests](https://github.com/sibiraj-s/commitlint-config-non-conventional/actions/workflows/tests.yml/badge.svg)](https://github.com/sibiraj-s/commitlint-config-non-conventional/actions/workflows/tests.yml)
+[![Version](https://badgen.net/npm/v/commitlint-config-non-conventional)](https://npmjs.com/package/commitlint-config-non-conventional)
+[![License](https://badgen.net/npm/license/commitlint-config-non-conventional)](https://github.com/sibiraj-s/commitlint-config-non-conventional/blob/master/LICENSE)
+![Node](https://badgen.net/npm/node/commitlint-config-non-conventional)
+
 ## Installation
 
 ```bash
