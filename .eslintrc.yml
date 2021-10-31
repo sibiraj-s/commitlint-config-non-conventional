@@ -1,0 +1,7 @@
+extends:
+  - pegasus
+  - pegasus/node
+
+overrides:
+  - files: test.js
+    extends: plugin:jest/recommended

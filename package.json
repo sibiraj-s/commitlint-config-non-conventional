@@ -1,0 +1,42 @@
+{
+  "name": "commitlint-config-non-conventional",
+  "version": "0.0.0",
+  "description": "Shared commitlint config to enforce a good non conventional commit message",
+  "license": "MIT",
+  "author": "sibiraj-s",
+  "repository": "https://github.com/sibiraj-s/commitlint-config-non-conventional",
+  "bugs": "https://github.com/sibiraj-s/commitlint-config-non-conventional/issues",
+  "homepage": "https://github.com/sibiraj-s/commitlint-config-non-conventional#readme",
+  "main": "./index.js",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "keywords": [
+    "commitlint",
+    "commitlintconfig",
+    "commitlintplugin",
+    "conventional-commits",
+    "non-conventional-commits"
+  ],
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --verbose --watch --coverage",
+    "prepare": "is-ci || husky install"
+  },
+  "peerDependencies": {
+    "@commitlint/cli": ">=13.0.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^13.2.1",
+    "@commitlint/lint": "^13.2.0",
+    "@types/jest": "^27.0.2",
+    "eslint": "^8.1.0",
+    "eslint-config-pegasus": "^3.0.1",
+    "eslint-plugin-jest": "^25.2.2",
+    "husky": "^7.0.4",
+    "is-ci": "^3.0.1",
+    "jest": "^27.3.1",
+    "lint-staged": "^11.2.6"
+  }
+}
