@@ -2,7 +2,7 @@
 
 > Shared [commitlint] config to enforce a good commit message
 
-This config disllows the usage of [conventinal style commits][conventionalcommits]. Sometimes all you need is just a proper commit messages with some rules enforced.
+This config disllows the usage of [conventinal style commits][conventionalcommits]. Sometimes all you need is just a proper commit messages with rules enforced.
 
 [![Tests](https://github.com/sibiraj-s/commitlint-config-non-conventional/actions/workflows/tests.yml/badge.svg)](https://github.com/sibiraj-s/commitlint-config-non-conventional/actions/workflows/tests.yml)
 [![Version](https://badgen.net/npm/v/commitlint-config-non-conventional)](https://npmjs.com/package/commitlint-config-non-conventional)
