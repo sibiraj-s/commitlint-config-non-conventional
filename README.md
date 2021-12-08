@@ -1,6 +1,6 @@
 # commitlint-config-non-conventional
 
-> Shared [commitlint] config to enforce a good non conventional commit message
+> Shared [commitlint] config to enforce a good commit message
 
 This config disllows the usage of [conventinal style commits][conventionalcommits]. Sometimes all you need is just a proper commit messages with some rules enforced.
 
