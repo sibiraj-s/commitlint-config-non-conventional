@@ -20,7 +20,9 @@
     "commitlintconfig",
     "commitlintplugin",
     "conventional-commits",
-    "non-conventional-commits"
+    "non-conventional-commits",
+    "commit-rules",
+    "commit-message-rules"
   ],
   "scripts": {
     "lint": "eslint . --ignore-path .gitignore",
