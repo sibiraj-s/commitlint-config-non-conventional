@@ -1,6 +1,6 @@
 {
   "name": "commitlint-config-non-conventional",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared commitlint config to enforce a good commit message",
   "license": "MIT",
   "author": "sibiraj-s",
