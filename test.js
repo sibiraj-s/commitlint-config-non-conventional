@@ -1,3 +1,4 @@
+const { test, expect } = require('@jest/globals');
 const lint = require('@commitlint/lint').default;
 const { rules } = require('.');
 
