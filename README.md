@@ -9,6 +9,18 @@ This config disllows the usage of [conventinal style commits][conventionalcommit
 [![License](https://badgen.net/npm/license/commitlint-config-non-conventional)](https://github.com/sibiraj-s/commitlint-config-non-conventional/blob/master/LICENSE)
 ![Node](https://badgen.net/npm/node/commitlint-config-non-conventional)
 
+## Rules
+
+A commit message or commit title should
+
+- not be empty
+- be sentence cased
+- contain atleast 10 characters
+- not exceed 50 characters
+- not end with full stop
+
+If the commit message has a body and footer. They should have 2 blank leading lines and should not exceed 72 characters. The description(body) should be sentence cased.
+
 ## Installation
 
 ```bash
