@@ -58,4 +58,4 @@ Checkout the [husky documentation][install-husky] on how to automatically instal
 
 ### Useful links
 
-- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
